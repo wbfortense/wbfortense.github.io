@@ -1,0 +1,99 @@
+ TRY TRY HOVER 
+ .cntnr1a2 a img {
+	-webkit-transform scale(1);
+	transform scale(1);
+	-webkit-transition .3s ease-in-out;
+	transition .3s ease-in-out;
+}
+.cntnr1a2 ahover img {
+	-webkit-transform scale(0.9);
+	transform scale(0.9);
+} 
+
+ Opacity #2 
+.cntnr1a2 a {
+	 background #1abc9c; 
+}
+.cntnr1a2 a img {
+	opacity 1;
+    border-radius 10px;
+    -webkit-transform scale(1);
+	transform scale(1);
+	-webkit-transition .3s ease-in-out;
+	transition .3s ease-in-out;
+}
+.cntnr1a2 ahover img {
+	opacity .8;
+    border-radius 15px;
+    -webkit-transform scale(0.99);
+	transform scale(0.99);
+}
+
+
+
+
+
+-------------------------------------------------------------
+
+
+
+
+
+
+
+
+/* 4 MENU UTAMA START*/
+.cntnr1a {
+    max-width: 900px;
+    /* border: 5px solid #333; */
+    margin: 30px auto;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.cntnr1a img {
+    width: 50%;
+    height: 50%;
+    padding: 2px;
+    /* border-radius: 10px; */
+}
+.cntnr1a:hover {
+
+}
+/* 4 MENU UTAMA END */
+
+
+
+
+/* 4 MENU UTAMA START*/
+.cntnr1a2 {
+    max-width: 900px;
+    /* border: 5px solid #333; */
+    margin: 30px auto;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.cntnr1a2 a {
+    width: 50%;
+    height: 50%;
+    padding: 5px;
+}
+
+.cntnr1a2 a img {
+    /* border-radius: 10px; */
+}
+
+.cntnr1a2 .cntnr1a2-button {
+    max-width: 200px;
+    /* border: 5px solid #333; */
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+/* 4 MENU UTAMA END */

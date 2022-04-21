@@ -1,0 +1,14 @@
+          <!-- PROJECT FORTENSE MENU START -->
+          <div class="cntnr1a3 mt-0 mb-0">
+            <a href="#"><img src="img/MENU.jpg" class="img-fluid" alt="AA"></a>
+            <a href="#"><img src="img/MENU.jpg" class="img-fluid" alt="B2"></a>
+            <a href="#"><img src="img/MENU.jpg" class="img-fluid" alt="C2"></a>
+            <a href="#"><img src="img/MENU.jpg" class="img-fluid" alt="DD"></a>
+            <a href="#"><img src="img/MENU.jpg" class="img-fluid" alt="EE"></a>
+            <a href="#"><img src="img/MENU.jpg" class="img-fluid" alt="AA"></a>
+            <a href="#"><img src="img/MENU.jpg" class="img-fluid" alt="B2"></a>
+            <a href="#"><img src="img/MENU.jpg" class="img-fluid" alt="C2"></a>
+            <a href="#"><img src="img/MENU.jpg" class="img-fluid" alt="DD"></a>
+            <a href="#"><img src="img/MENU.jpg" class="img-fluid" alt="EE"></a>
+          </div>
+          <!-- PROJECT FORTENSE MENU END -->

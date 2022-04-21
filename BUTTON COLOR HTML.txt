@@ -1,0 +1,133 @@
+          <!-- TRILOGY VIDEO -->
+          <div class="ratio ratio-16x9">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/KO8XBz4c5ic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <!-- TRILOGY VIDEO -->
+
+
+
+
+
+
+          <!-- TRY LINK FLEX MENU A B START -->
+          <div class="cntnr1a2 mb-1">
+            <a href="#"><img src="img/MENU1.jpeg" class="img-fluid" alt="AA"></a>
+            <a href="#"><img src="img/MENU2.jpeg" class="img-fluid" alt="B2"></a>
+          </div>
+
+          <div class="cntnr1a2 mt-0">
+            <div class="cntnr1a2-button">
+              <div class="d-grid gap-2">
+                <button class="btn btn-primary" type="button">Video Presentasi</button>
+                <button class="btn btn-primary" type="button">Download PDF</button>
+                <button class="btn btn-primary" type="button">Lihat Website</button>
+              </div>
+            </div>
+            <div class="cntnr1a2-button">
+              <div class="d-grid gap-2">
+                <button class="btn btn-primary" type="button">Video Presentasi</button>
+                <button class="btn btn-primary" type="button">Download PDF</button>
+                <button class="btn btn-primary" type="button">Lihat Website</button>
+              </div>
+            </div>
+          </div>
+          <!-- TRY LINK FLEX MENU A B END -->
+
+          <!-- TRY LINK FLEX MENU C D START -->
+          <div class="cntnr1a2 mb-1">
+            <a href="#"><img src="img/MENU3.jpeg" class="img-fluid" alt="C2"></a>
+            <a href="#"><img src="img/MENU4.jpeg" class="img-fluid" alt="DD"></a>
+          </div>
+
+          <div class="cntnr1a2 mt-0">
+            <div class="cntnr1a2-button">
+              <div class="d-grid gap-2">
+                <button class="btn btn-primary" type="button">Video Presentasi</button>
+                <button class="btn btn-primary" type="button">Download PDF</button>
+                <button class="btn btn-primary" type="button">Lihat Website</button>
+              </div>
+            </div>
+            <div class="cntnr1a2-button">
+              <div class="d-grid gap-2">
+                <button class="btn btn-primary" type="button">Video Presentasi</button>
+                <button class="btn btn-primary" type="button">Download PDF</button>
+                <button class="btn btn-primary" type="button">Lihat Website</button>
+              </div>
+            </div>
+          </div>
+          <!-- TRY LINK FLEX MENU C D END -->
+
+          <!-- FLEX MENU BS START -->
+            <img src="img/MENU1.jpeg" class="img-fluid mt-4 mb-2" alt="AA">
+            <div class="d-grid gap-2 col-6 mx-auto">
+              <button class="btn btn-primary" type="button">Video Presentasi</button>
+              <button class="btn btn-primary" type="button">Download PDF</button>
+              <button class="btn btn-primary" type="button">Lihat Website</button>
+            </div>
+            <img src="img/MENU2.jpeg" class="img-fluid mt-4 mb-2" alt="BB">
+            <div class="d-grid gap-2 col-6 mx-auto">
+              <button class="btn btn-primary" type="button">Video Presentasi</button>
+              <button class="btn btn-primary" type="button">Download PDF</button>
+              <button class="btn btn-primary" type="button">Lihat Website</button>
+            </div>
+            <img src="img/MENU3.jpeg" class="img-fluid mt-4 mb-2" alt="CC">
+            <div class="d-grid gap-2 col-6 mx-auto">
+              <button class="btn btn-primary" type="button">Video Presentasi</button>
+              <button class="btn btn-primary" type="button">Download PDF</button>
+              <button class="btn btn-primary" type="button">Lihat Website</button>
+            </div>
+            <img src="img/MENU4.jpeg" class="img-fluid mt-4 mb-2" alt="DD">
+            <div class="d-grid gap-2 col-6 mx-auto">
+              <button class="btn btn-primary" type="button">Video Presentasi</button>
+              <button class="btn btn-primary" type="button">Download PDF</button>
+              <button class="btn btn-primary" type="button">Lihat Website</button>
+            </div>
+          <!-- FLEX MENU BS END -->
+          <br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+          <!-- TRILOGY VIDEO -->
+          <div class="ratio ratio-16x9">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/KO8XBz4c5ic" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <!-- TRILOGY VIDEO -->
+          
+          <!-- FLEX MENU 3 START -->
+          <div class="cntnr1a">
+            <img src="img/GRID AA.png" class="img-fluid" alt="AA">
+            <img src="img/GRID B2.png" class="img-fluid" alt="BB">
+            <img src="img/GRID C2.png" class="img-fluid" alt="CC">
+            <img src="img/GRID DD.png" class="img-fluid" alt="DD">
+          </div>
+          <!-- FLEX MENU 3 END -->
+
+          <!-- IMG START -->
+          <img src="img/GRID AA.png" class="img-fluid" alt="AA">
+          <img src="img/GRID BB.png" class="img-fluid" alt="BB">
+          <img src="img/GRID CC.png" class="img-fluid" alt="CC">
+          <img src="img/GRID DD.png" class="img-fluid" alt="DD">
+
+          <!-- <img src="img/Portofolio Lovology Indonesia 2022 - 03.jpg" class="img-fluid" alt="Portofolio Lovology Indonesia 2022 - 03">
+          <img src="img/Portofolio Lovology Indonesia 2022 - 04.jpg" class="img-fluid" alt="Portofolio Lovology Indonesia 2022 - 04">
+          <img src="img/Portofolio Lovology Indonesia 2022 - 06.jpg" class="img-fluid" alt="Portofolio Lovology Indonesia 2022 - 06">
+          <img src="img/Portofolio Lovology Indonesia 2022 - 08.jpg" class="img-fluid" alt="Portofolio Lovology Indonesia 2022 - 08">
+          <img src="img/Portofolio Lovology Indonesia 2022 - 10.jpg" class="img-fluid" alt="Portofolio Lovology Indonesia 2022 - 10">
+          <img src="img/Portofolio Lovology Indonesia 2022 - 13.jpg" class="img-fluid" alt="Portofolio Lovology Indonesia 2022 - 13"> -->
+
+          <!-- IMG END -->
+
+          <!-- APP VIDEO -->
+          <div class="ratio ratio-16x9">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/4Itt54QbL2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          </div>
+          <!-- APP VIDEO -->
