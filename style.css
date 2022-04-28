@@ -256,7 +256,6 @@ body {
     color: #2c2c2c;
 }
 .mytitle1-muted {
-    margin-top: -10px;
     display: block;
     font-weight: bold;
     font-size: 70%;
@@ -300,11 +299,6 @@ body {
 }
 .konseling-klik1:hover {
     color: black;
-}
-
-.navpillstab {
-    margin-left: -2px;
-    margin-right: -2px;
 }
 
 /* FOOTER
